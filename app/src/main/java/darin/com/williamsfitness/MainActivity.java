@@ -22,5 +22,6 @@ public class MainActivity extends AppCompatActivity {
 
     private void testTearDown(){
         String pt = "test data";
+        String anotherTest = "Excellent Learning";
     }
 }
