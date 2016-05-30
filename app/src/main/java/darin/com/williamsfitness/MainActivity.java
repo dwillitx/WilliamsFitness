@@ -17,6 +17,10 @@ public class MainActivity extends AppCompatActivity {
 
         int ii = 2+2;
 
-        int iii = i + ii;
+        int iii = i + ii + 4;
+    }
+
+    private void testTearDown(){
+        String pt = "test data";
     }
 }
